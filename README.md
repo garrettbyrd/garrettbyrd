@@ -1,4 +1,4 @@
-## Hi there 👋
+software engineer and linear algebra cultist
 
 <!--
 **garrettbyrd/garrettbyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
